@@ -1,1 +1,1 @@
-# Cotton-Disease-Prediction
+# Cotton-Disease-Prediction using Transfer Learning
